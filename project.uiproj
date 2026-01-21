@@ -1,0 +1,6 @@
+{
+  "Name": "Technical_Case_EmailAndPDF_Processor",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
